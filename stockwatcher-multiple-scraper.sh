@@ -1,3 +1,4 @@
+# run chmod +x stockwatcher-multiple-scraper.sh
 #Execution method: ./script.sh <ticker_list_path> <output_folder_path> <start_date> [<end_date>]
 #Beware the tickers in the ticker list must, for some, have a suffix (stock exchange code) after them. It is recommended to include them.
 #Example: AF.PA (Air France Euronext Paris)
