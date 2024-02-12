@@ -3,7 +3,8 @@ Remember that I'm a law student after all, not an IT one. Therefor, this project
 ## English guide
 ### Getting started
 #### Cloning the repo
-```git clone https://github.com/oooooooorion/stockwatcher.git```
+```$ git clone https://github.com/oooooooorion/stockwatcher.git```
+```$ cd ./stockwatcher```
 #### Installing dependencies
 First of all, make sure you have Python and Pip (comes with Python) installed on your machine.
 
