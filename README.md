@@ -1,5 +1,5 @@
 # stockwatcher
-Remember that I'm a law student after all, not an IT one. Therefor, this project allowed me more to master ChatGPT than Python. And because barely everything has been created throught ChatGPT (3.5), I don't even know what it really does for much. The main goal of this project is to prove it is feasible to code without even knowing how to code (just a bit of tech stuff) using LLMs (and maybe to make lots of money but I'm not so sure for that). And for the record, I've written the hereby file myself.
+Remember that I'm a law student after all, not an IT one. Therefore, this project rather allowed me to master ChatGPT more than Python. And because barely everything has been created with my best friend ChatGPT (3.5), I don't even know what it really does. The main goal of this project is to prove it is feasible to code without even knowing how to code (just a bit of tech stuff) using LLMs (and maybe to make lots of money but I'm not so sure for that). And for the record, I've written the hereby file myself.
 ## English guide
 ### Getting started
 #### Cloning the repo
