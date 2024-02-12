@@ -4,6 +4,7 @@ Remember that I'm a law student after all, not an IT one. Therefor, this project
 ### Getting started
 #### Cloning the repo
 ```$ git clone https://github.com/oooooooorion/stockwatcher.git```
+
 ```$ cd ./stockwatcher```
 #### Installing dependencies
 First of all, make sure you have Python and Pip (comes with Python) installed on your machine.
@@ -19,7 +20,8 @@ The ```stockwatcher-scrape.py``` script can download data from one or multiple s
 
 To donwload multiple stocks' data you'll have to place your stocks' tickers in a text file, however for some reason, tickers will have to be separated with commas. (such as given in the ```./ticker-lists/``` folder).
 
-You'll have to create a folder for stockwater-scrape output such has: ```$ mkdir scrape-output```
+You'll have to create a folder for stockwater-scrape output such as: 
+```$ mkdir scrape-output```
 
 Here's the full usage of the ```stockwatcher-scrape.py``` script:
 
@@ -34,16 +36,15 @@ For a multiple stocks' data:
 Be aware that if argument```[<YYYY-MM-DD>]``` is not filled, it will be replaced by today.
 #### stockwatcher-monthly
 So now that you have some data, you can start to play with the full potential of stockwatcher.
-#### other stuff: working-old folder
-Here you have interesting stuff that worked or barely worked. Such as ```stock-yearly-evolution-graph.py``` which creates a cool graph starting at 0,0 every January 1st of every year to compare the graph years over years.
-
 Here's the usage if you know the stuff:
 ```$ python3 stockwatcher-monthly.py <input_csv_path/input_folder_path> <output_folder_path>```
 
 Argument ```<input_csv_path>``` or ```<input_folder_path>``` is what we just downloaded under ```scrape-output```.
 
 Argument ```<output_folder_path>``` you'll have to create (I do not feel the need to re-explain how to create a folder under a *nix environment) or use ```./``` if you ain't got a lot of input files.
-
 Then see the result yourself (or look inside the ```example``` folder you fool).
+#### other stuff: working-old folder
+Here you have interesting stuff that worked or barely worked. Such as ```stock-yearly-evolution-graph.py``` which creates a cool graph starting at 0,0 every January 1st of every year to compare the graph years over years.
+
 ## Guide en français
 vindra un jour ptet
