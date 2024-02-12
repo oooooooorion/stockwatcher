@@ -4,7 +4,7 @@ import os
 
 # Check if the command-line arguments are provided
 if len(sys.argv) != 3:
-    print("Usage: python stock_price_statistics.py <input_csv_path/input_folder_path> <output_folder_path>")
+    print("Usage: python3 stockwatcher-monthly.py <input_csv_path/input_folder_path> <output_folder_path>")
     sys.exit(1)
 
 input_path = sys.argv[1]
